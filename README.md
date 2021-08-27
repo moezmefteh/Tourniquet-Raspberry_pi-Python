@@ -1,0 +1,2 @@
+# Tourniquet-Raspberry_pi-Python
+A partir du code QR scanner par le lecteur, le programme teste le ticket lié à ce code, si le ticket est valable et lié à l’événement en cours, le tourniquet provoque la permission d’entrer, un message sera envoyé sur un afficheur et affecter ce ticket aux tickets utilisées, En contrepartie si le ticket est déjà utilisé ou n’est pas lié à l’évènement en cours il empêche l’entrer et indique le type d’erreur sur l’afficheur.   
